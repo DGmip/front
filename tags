@@ -1,0 +1,7 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+CleanWebpackPlugin	/home/ben/code/front/webpack.config.js	/^var CleanWebpackPlugin = require('clean-webpack-plugin');$/;"	v	language:JavaScript
+entry	/home/ben/code/front/webpack.config.js	/^module.exports = {$/;"	p	language:JavaScript	class:module.exports
+ExtractTextPlugin	/home/ben/code/front/webpack.config.js	/^var ExtractTextPlugin = require('extract-text-webpack-plugin');$/;"	v	language:JavaScript
+HtmlWebpackPlugin	/home/ben/code/front/webpack.config.js	/^var HtmlWebpackPlugin = require('html-webpack-plugin');$/;"	v	language:JavaScript
+output	/home/ben/code/front/webpack.config.js	/^  entry: '.\/src\/js\/app.js',$/;"	p	language:JavaScript	class:module.exports
+path	/home/ben/code/front/webpack.config.js	/^var path = require('path');$/;"	v	language:JavaScript
